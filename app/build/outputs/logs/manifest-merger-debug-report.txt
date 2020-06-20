@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1f5374651a2e6ca29093aa3156e9725e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1d5525c5c131fc2f8a8cc1787c1ba8c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.mohammadatif:Animatoo:master] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\cc4370604c0303840035a3ae96be4d7d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7ff16c45ac487b8620237e1d435924d1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.yash786agg:AnimatedLoadingIndicator:v1.3] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\4a9d2f96810aa8ab4c40c3ed8cae0f2a\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\fa0a2e59fe114f1d8b96baef2e3c5801\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\55035be93687d856f73b7046fc069d4d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\b064d45a362443c104b0a935198df3ef\AndroidManifest.xml:2:1-12:12
+MERGED from [com.felipecsl:gifimageview:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\54d80c2cfb020dbace4956df65ad947f\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\606687f15f732b949594652cd31ecde0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\e180fdb9a4602c4ccb5622a24e0f1f1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9859ba99c6ae24c8b30d489edb2e28e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\25c7627e43025adc28697e2ccd141b6b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d198444ac87d07aae53214128e9a0c1b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\02f3a5a3fd3696fa2da4b8f928130af0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\90511dc7631f1c5691b7ec945991979b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9526176b89c5f584796e7ab34ccfca0b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1bbce987b27cf1dc9cb07311ed22fff3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ed8335b7ef8525da895ab028156996b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7d5efc0ce1f7b1ed53f6e30b6c247590\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7cd626ea8b8972eecdd32b7a2fe3bbb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7643bcaa820b405892e562ce900d0633\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\466a7bfa7e6cb9252565529c2b9c12b5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\40cae7a73f7d4ea50334afb613bbf06d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9dc2e3378981201136b1c34f37faaf3e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\a3b7d880e078bd263e2269104b156d63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0a959bf183c11baa369e53c7bc3d4c3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ddbc963b26deccae3fd7c2c9cfa3d50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3086b4ad615fe8a34bcb09b0a9f12158\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0203d66bf8c7d0da70a42413cef6a325\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\2335c3578ebbd16b22e747f6c6663c20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\359c7dbb0f75e8860a9da32d563e4ed4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7c937d9e77bb55b3580a08509a8dd497\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\f3597314a0d7a89fa15371629744009e\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\ca0450442bc412c0f617ca114044eecf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\56356acf10186d2701a2437341cbca4e\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:8:22-68
+application
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:10:5-58:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1f5374651a2e6ca29093aa3156e9725e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1f5374651a2e6ca29093aa3156e9725e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1d5525c5c131fc2f8a8cc1787c1ba8c4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1d5525c5c131fc2f8a8cc1787c1ba8c4\AndroidManifest.xml:22:5-20
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7ff16c45ac487b8620237e1d435924d1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7ff16c45ac487b8620237e1d435924d1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\b064d45a362443c104b0a935198df3ef\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\b064d45a362443c104b0a935198df3ef\AndroidManifest.xml:10:5-20
+MERGED from [com.felipecsl:gifimageview:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\54d80c2cfb020dbace4956df65ad947f\AndroidManifest.xml:10:5-20
+MERGED from [com.felipecsl:gifimageview:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\54d80c2cfb020dbace4956df65ad947f\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\40cae7a73f7d4ea50334afb613bbf06d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\40cae7a73f7d4ea50334afb613bbf06d\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9dc2e3378981201136b1c34f37faaf3e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9dc2e3378981201136b1c34f37faaf3e\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:17:9-44
+activity#com.nosacikal.holosains.activity.ScoreActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:18:9-19:60
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:19:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:18:19-57
+activity#com.nosacikal.holosains.activity.EvaluasiActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:20:9-22:51
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:22:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:21:13-54
+activity#com.nosacikal.holosains.activity.SoalEvaluasiActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:23:9-25:51
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:24:13-58
+activity#com.nosacikal.holosains.activity.VideoSimulasiActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:26:9-30:51
+	android:screenOrientation
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:29:13-50
+	android:noHistory
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:27:13-59
+activity#com.nosacikal.holosains.activity.SimulasiActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:31:9-33:51
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:33:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:32:13-54
+activity#com.nosacikal.holosains.activity.LoginActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:34:9-37:51
+	android:noHistory
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:37:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:35:13-51
+activity#com.nosacikal.holosains.activity.DetailMateriActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:38:9-41:51
+	android:noHistory
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:39:13-58
+activity#com.nosacikal.holosains.activity.MateriActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:42:9-44:51
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:44:13-48
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:43:13-52
+activity#com.nosacikal.holosains.activity.SplashScreenActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:45:9-54:20
+	android:noHistory
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:48:13-57
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:46:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.nosacikal.holosains.activity.MainActivity
+ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:55:9-57:56
+	android:theme
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:57:13-53
+	android:name
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml:56:13-50
+uses-sdk
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1f5374651a2e6ca29093aa3156e9725e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1f5374651a2e6ca29093aa3156e9725e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1d5525c5c131fc2f8a8cc1787c1ba8c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1d5525c5c131fc2f8a8cc1787c1ba8c4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.mohammadatif:Animatoo:master] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\cc4370604c0303840035a3ae96be4d7d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:Animatoo:master] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\cc4370604c0303840035a3ae96be4d7d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7ff16c45ac487b8620237e1d435924d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7ff16c45ac487b8620237e1d435924d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yash786agg:AnimatedLoadingIndicator:v1.3] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\4a9d2f96810aa8ab4c40c3ed8cae0f2a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yash786agg:AnimatedLoadingIndicator:v1.3] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\4a9d2f96810aa8ab4c40c3ed8cae0f2a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\fa0a2e59fe114f1d8b96baef2e3c5801\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\fa0a2e59fe114f1d8b96baef2e3c5801\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\55035be93687d856f73b7046fc069d4d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\55035be93687d856f73b7046fc069d4d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\b064d45a362443c104b0a935198df3ef\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\b064d45a362443c104b0a935198df3ef\AndroidManifest.xml:6:5-8:41
+MERGED from [com.felipecsl:gifimageview:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\54d80c2cfb020dbace4956df65ad947f\AndroidManifest.xml:8:5-43
+MERGED from [com.felipecsl:gifimageview:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\54d80c2cfb020dbace4956df65ad947f\AndroidManifest.xml:8:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\606687f15f732b949594652cd31ecde0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\606687f15f732b949594652cd31ecde0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\e180fdb9a4602c4ccb5622a24e0f1f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\e180fdb9a4602c4ccb5622a24e0f1f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9859ba99c6ae24c8b30d489edb2e28e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9859ba99c6ae24c8b30d489edb2e28e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\25c7627e43025adc28697e2ccd141b6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\25c7627e43025adc28697e2ccd141b6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d198444ac87d07aae53214128e9a0c1b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d198444ac87d07aae53214128e9a0c1b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\02f3a5a3fd3696fa2da4b8f928130af0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\02f3a5a3fd3696fa2da4b8f928130af0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\90511dc7631f1c5691b7ec945991979b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\90511dc7631f1c5691b7ec945991979b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9526176b89c5f584796e7ab34ccfca0b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9526176b89c5f584796e7ab34ccfca0b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1bbce987b27cf1dc9cb07311ed22fff3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\1bbce987b27cf1dc9cb07311ed22fff3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ed8335b7ef8525da895ab028156996b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ed8335b7ef8525da895ab028156996b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7d5efc0ce1f7b1ed53f6e30b6c247590\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7d5efc0ce1f7b1ed53f6e30b6c247590\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7cd626ea8b8972eecdd32b7a2fe3bbb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7cd626ea8b8972eecdd32b7a2fe3bbb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7643bcaa820b405892e562ce900d0633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7643bcaa820b405892e562ce900d0633\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\466a7bfa7e6cb9252565529c2b9c12b5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\466a7bfa7e6cb9252565529c2b9c12b5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\d264b6939ad6552c0de132723ec1a2d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\40cae7a73f7d4ea50334afb613bbf06d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\40cae7a73f7d4ea50334afb613bbf06d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9dc2e3378981201136b1c34f37faaf3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\9dc2e3378981201136b1c34f37faaf3e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\a3b7d880e078bd263e2269104b156d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\a3b7d880e078bd263e2269104b156d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0a959bf183c11baa369e53c7bc3d4c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0a959bf183c11baa369e53c7bc3d4c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ddbc963b26deccae3fd7c2c9cfa3d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3ddbc963b26deccae3fd7c2c9cfa3d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3086b4ad615fe8a34bcb09b0a9f12158\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\3086b4ad615fe8a34bcb09b0a9f12158\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0203d66bf8c7d0da70a42413cef6a325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\0203d66bf8c7d0da70a42413cef6a325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\2335c3578ebbd16b22e747f6c6663c20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\2335c3578ebbd16b22e747f6c6663c20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\359c7dbb0f75e8860a9da32d563e4ed4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\359c7dbb0f75e8860a9da32d563e4ed4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7c937d9e77bb55b3580a08509a8dd497\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\7c937d9e77bb55b3580a08509a8dd497\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\f3597314a0d7a89fa15371629744009e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\f3597314a0d7a89fa15371629744009e\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\ca0450442bc412c0f617ca114044eecf\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\ca0450442bc412c0f617ca114044eecf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\56356acf10186d2701a2437341cbca4e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\nosacikal\.gradle\caches\transforms-2\files-2.1\56356acf10186d2701a2437341cbca4e\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		ADDED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\android_project\HoloSains\app\src\main\AndroidManifest.xml

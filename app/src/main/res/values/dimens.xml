@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="login_title">15sp</dimen>
+	<dimen name="login_sub_title">5.8sp</dimen>
+	<dimen name="login_button">7.5sp</dimen>
+	<dimen name="login_imgbutton">33.3dp</dimen>
+	<dimen name="login_mt_64">26.7dp</dimen>
+	<dimen name="login_mt_52">21.7dp</dimen>
+	<dimen name="login_mt_32">13.3dp</dimen>
+	<dimen name="main_ms_16">6.7dp</dimen>
+	<dimen name="main_me_16">6.7dp</dimen>
+	<dimen name="main_mt_8">3.3dp</dimen>
+	<dimen name="main_title">10.8sp</dimen>
+	<dimen name="main_mt_24">10dp</dimen>
+	<dimen name="main_sub_16">6.7sp</dimen>
+</resources>

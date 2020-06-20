@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activity.EvaluasiActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/menu_evaluasi"/>
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView5"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginStart="8dp"-->
+        <!--android:layout_marginEnd="8dp"-->
+        <!--android:fontFamily="@font/poppins_bold"-->
+        <!--android:text="Nilai Kamu: 90"-->
+        <!--android:textSize="24sp"-->
+        <!--android:layout_marginTop="@dimen/login_mt_52"/>-->
+
+    <Button
+        android:id="@+id/e_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:text="Mulai Evaluasi"
+        android:padding="16dp"
+        android:textAllCaps="false"
+        android:textColor="@color/foreground"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="18sp"
+        android:background="@drawable/button_evaluasi"
+        android:layout_marginTop="@dimen/login_mt_52"/>
+
+</LinearLayout>

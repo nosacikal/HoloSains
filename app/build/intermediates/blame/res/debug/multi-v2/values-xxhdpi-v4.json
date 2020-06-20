@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\android_project\\HoloSains\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\projects\\android_project\\HoloSains\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,7,6,5,2,1,10,9,13,11,14,12",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "100,142,269,228,187,55,14,352,312,470,392,510,430",
+                        "endColumns": "40,43,39,39,39,43,39,38,38,38,36,39,38",
+                        "endOffsets": "139,184,307,266,225,97,52,389,349,507,427,548,467"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,146,189,232,275,322,365,407,449,491,531,574",
+                        "endColumns": "43,46,42,42,42,46,42,41,41,41,39,42,41",
+                        "endOffsets": "94,141,184,227,270,317,360,402,444,486,526,569,611"
+                    }
+                }
+            ]
+        }
+    ]
+}

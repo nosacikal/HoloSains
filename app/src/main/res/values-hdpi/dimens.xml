@@ -1,0 +1,15 @@
+<resources>
+	<dimen name="login_title">18sp</dimen>
+	<dimen name="login_sub_title">7sp</dimen>
+	<dimen name="login_button">9sp</dimen>
+	<dimen name="login_imgbutton">40dp</dimen>
+	<dimen name="login_mt_64">32dp</dimen>
+	<dimen name="login_mt_52">26dp</dimen>
+	<dimen name="login_mt_32">16dp</dimen>
+	<dimen name="main_ms_16">8dp</dimen>
+	<dimen name="main_me_16">8dp</dimen>
+	<dimen name="main_mt_8">4dp</dimen>
+	<dimen name="main_title">13sp</dimen>
+	<dimen name="main_mt_24">12dp</dimen>
+	<dimen name="main_sub_16">8sp</dimen>
+</resources>

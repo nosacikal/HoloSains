@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\android_project\\HoloSains\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nosacikal\\.gradle\\caches\\transforms-2\\files-2.1\\fa0a2e59fe114f1d8b96baef2e3c5801\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "611",
+                        "endLines": "19",
+                        "endColumns": "13",
+                        "endOffsets": "883"
+                    }
+                },
+                {
+                    "source": "D:\\projects\\android_project\\HoloSains\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,7,6,5,2,1,9,8,12,10,13,11",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "99,140,267,226,185,55,14,347,308,464,386,504,424",
+                        "endColumns": "39,43,39,39,39,42,39,37,37,38,36,38,38",
+                        "endOffsets": "137,182,305,264,223,96,52,383,344,501,421,541,461"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,145,188,231,274,320,363,404,445,487,527,569",
+                        "endColumns": "42,46,42,42,42,45,42,40,40,41,39,41,41",
+                        "endOffsets": "93,140,183,226,269,315,358,399,440,482,522,564,606"
+                    }
+                }
+            ]
+        }
+    ]
+}

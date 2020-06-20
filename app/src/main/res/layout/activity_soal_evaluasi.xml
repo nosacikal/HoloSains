@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SoalEvaluasiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingStart="@dimen/main_me_16"
+        android:paddingEnd="@dimen/main_me_16"
+        android:paddingTop="@dimen/main_mt_8">
+
+        <LinearLayout
+            android:id="@+id/ll_progress_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:indeterminate="false"
+                android:max="10"
+                android:minHeight="50dp"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/se_progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="15dp"
+                android:fontFamily="@font/poppins_bold"
+                android:text="1 / 20"
+                android:textColor="@color/textLogin"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/se_pertanyaan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="24dp"
+            android:fontFamily="@font/poppins_regular"
+            tools:text="What country does this flag belong to?"
+            android:textColor="@color/textSubLogin"
+            android:textSize="@dimen/main_sub_16" />
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:adjustViewBounds="true"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:contentDescription="image"
+            tools:src="@drawable/login_image"
+            android:layout_marginBottom="@dimen/main_mt_8"/>
+
+
+        <TextView
+            android:id="@+id/se_option_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:layout_marginTop="@dimen/main_mt_24"
+            android:background="@drawable/default_option_border_bg"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#7A8089"
+            android:textSize="18sp"
+            tools:text="Apple" />
+
+        <TextView
+            android:id="@+id/se_option_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:layout_marginTop="@dimen/main_mt_24"
+            android:background="@drawable/default_option_border_bg"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#7A8089"
+            android:textSize="18sp"
+            tools:text="Google" />
+
+        <TextView
+            android:id="@+id/se_option_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:layout_marginTop="@dimen/main_mt_24"
+            android:background="@drawable/default_option_border_bg"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#7A8089"
+            android:textSize="18sp"
+            tools:text="Android Inc." />
+
+        <TextView
+            android:id="@+id/se_option_four"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:layout_marginTop="@dimen/main_mt_24"
+            android:background="@drawable/default_option_border_bg"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColor="#7A8089"
+            android:textSize="18sp"
+            tools:text="Nokia" />
+
+        <Button
+            android:id="@+id/se_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginStart="@dimen/main_mt_24"
+            android:layout_marginEnd="@dimen/main_mt_24"
+            android:layout_marginTop="@dimen/login_mt_32"
+            android:layout_marginBottom="@dimen/login_mt_32"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:background="@drawable/button_evaluasi"
+            android:text="Submit"
+            android:textAllCaps="false"
+            android:textColor="@color/foreground"
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
